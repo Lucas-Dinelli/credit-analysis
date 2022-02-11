@@ -89,7 +89,7 @@ API para análise de crédito
     
 ##
 
-  - Solitar empréstimo:
+  - Solicitar empréstimo:
   
     - Faça uma requisição POST para http://localhost:8080/v1/loan com os seguintes detalhes:
     
